@@ -19,3 +19,11 @@ I am a sociable and open person. I love traveling, meeting new people. Also I do
 
 At the moment, I do not have much experience in programming, mainly my expierience is limited to RSSchool, w3school tutorials and freeCodeCamp. I would very much like to change my current field of work, because it's necessary to go further and develop. 
 ___
+### Code example
+```
+const a = 5;
+const b = 10;
+console.log(`Fifteen is ${a + b};
+
+```
+___
