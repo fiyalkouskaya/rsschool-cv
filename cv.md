@@ -27,3 +27,13 @@ console.log(`Fifteen is ${a + b};
 
 ```
 ___
+### Courses
+1. HTML and CSS Tutorials on the [w3schools](adress "https://www.w3schools.com/") *(in progress)*
+2. Interactive tutorials on the [freeCodeCamp](adress "https://www.freecodecamp.org/") *(in progress)*
+3. Frontend Developer Stage#0 course on the [RS School](adress "https://rs.school/") *(in progress)*
+___
+### Languages
+- Russian - Native
+- Ukrainian - C1
+- English - B1
+- Polish - A1
