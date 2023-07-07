@@ -133,6 +133,41 @@ a {
 	width: 3vh;
 }
 
+.skills-container {
+	display: flex;
+	justify-content: center;
+	column-gap: 3vw;
+	align-items: center;
+	flex-wrap: wrap;
+}
+
+progress {
+	-webkit-appearance: none;
+}
+
+::-webkit-progress-bar {
+  background-color: rgb(221, 221, 221);
+}
+
+::-webkit-progress-value {
+  background-color: #7F44AD;
+}
+
+::-moz-progress-bar {
+  background-color: #b4afb8;
+}
+
+.progress-element {
+	display: flex;
+	justify-content: flex-start;
+	gap: 3vw;
+	align-items: center;
+}
+
+.progress-label {
+	font-weight: 800;
+}
+
 #project {
 	display: flex;
 	justify-content: flex-start;
