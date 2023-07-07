@@ -68,7 +68,7 @@ p {
   margin: 5px 0;
 }
  
-.nav_list, .skills {
+.nav_list, .languages {
   display: flex;
   justify-content:  space-around;
   align-items: center;
