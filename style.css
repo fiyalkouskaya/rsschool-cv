@@ -55,10 +55,10 @@ section:hover, .project-cv_image:hover {
  
 p, h2, h3 {
   padding-left: 5px;
-  margin: 5px 0;
+  margin: 10px 0;
 }
  
-.nav_list {
+.nav_list, .skills {
   display: flex;
   justify-content:  space-around;
   align-items: center;
