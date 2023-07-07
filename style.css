@@ -34,7 +34,7 @@ html {
 body {
   background-color: #FCFCFC;
   font-family: 'Poppins', sans-serif;
-  font-style: normal;
+  font-size: 2vh;
   font-weight: 400;
   width: 80%;
   margin: 0 auto;
@@ -84,8 +84,7 @@ a {
 }
  
 .header-photo {
-  max-width: 25%;
-  height: auto;
+  width: 18vw;
   border-radius: 50%;
 }
  
@@ -114,6 +113,11 @@ a {
 .contacts_info p{
 	color: #000000;
 }
+
 .contacts_info p:hover{
 	text-shadow: 2px 2px 5px #c6b5d3;
+}
+
+.icon {
+	width: 3vh;
 }
