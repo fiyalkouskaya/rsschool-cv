@@ -53,7 +53,7 @@ section:hover, .project-cv_image:hover {
   box-shadow: 2px 2px 15px #c6b5d3;
 }
  
-p, h2 {
+p, h2, h3 {
   padding-left: 5px;
   margin: 5px 0;
 }
