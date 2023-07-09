@@ -190,11 +190,32 @@ progress {
 .footer {
 	display: flex;
 	justify-content: space-between;
-	align-items: center;
+	align-items: flex-start;
 	padding: 0 20px;
 }
 
 .footer_img {
 	max-height: 6vh;
 	width: auto;
+}
+
+/* grid */
+
+.main-grid {
+	display: flex;
+	justify-content: space-between;
+}
+
+.left-grid {
+	display: flex;
+	flex-direction: column;
+	width: 35%;
+
+}
+
+.right-grid {
+	display: flex;
+	flex-direction: column;
+	width: 63%;
+
 }
