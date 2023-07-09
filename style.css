@@ -41,7 +41,7 @@ body {
   margin: 0 auto;
 }
  
-section {
+section, .nav, .header-info {
   padding: 10px;
   margin: 10px 0;
   border-radius: 10px;
@@ -49,7 +49,7 @@ section {
   box-shadow: 2px 2px 15px 0px rgba(148, 60, 180, 0.15);
 }
 
-section:hover, .project-cv_image:hover {
+section:hover, .nav:hover, .header-info:hover, .project-cv_image:hover {
   box-shadow: 2px 2px 15px #c6b5d3;
 }
  
